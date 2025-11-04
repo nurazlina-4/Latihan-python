@@ -8,4 +8,6 @@ Saat menulis pesan kita gunakan simbol sama dengan (=). Jika ingin pesan tersebu
 String Literal: Tanda kutip (tunggal ' atau ganda ") digunakan untuk menandai rangkaian karakter sebagai sebuah string literal (nilai teks mentah yang ditafsirkan persis seperti yang dituliskan). Ketika Anda menulis print("Halo dunia"), program mengerti bahwa "Halo dunia" adalah teks yang harus ditampilkan.
 Variabel: Saat Anda ingin mencetak nilai dari sebuah variabel, Anda tidak menggunakan tanda kutip. Alasannya adalah agar program mengenali nama tersebut sebagai referensi ke lokasi memori yang menyimpan nilai, bukan sebagai teks literal "nama variabel" itu sendiri.
 Ekspresi dan Tipe Data Lain: Sama halnya dengan variabel, tipe data lain seperti angka (integer atau float), atau hasil dari suatu ekspresi matematika juga tidak memerlukan tanda kutip. Untuk ini akan kita pelajari di materi berikutnya.
-![Hasil latihan] (https://github.com/nurazlina-4/Latihan-python/blob/main/latihan%201.PNG)
+
+![Hasil latihan](https://github.com/nurazlina-4/Latihan-python/blob/main/latihan%201.PNG?raw=true)
+
